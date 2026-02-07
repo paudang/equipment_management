@@ -19,7 +19,3 @@ This project was developed as part of an academic thesis to improve efficiency i
 - **Frontend**: HTML, CSS, JavaScript  
 - **Database**: MySQL  
 - **Other**: Bootstrap for styling
-
----
-
-## 📂 Project Structure
